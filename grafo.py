@@ -1,3 +1,7 @@
+#Gabriel Zem Muraro
+#Gustavo Jansen
+#Joao Pedro Bezerra
+
 class Grafo:
 
     def __init__(self, num_vertices):
